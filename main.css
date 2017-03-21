@@ -1,0 +1,47 @@
+html {
+    font-family: "Roboto", sans-serif;
+}
+
+header {
+    background-color: orange;
+    margin-bottom: 40px;
+}
+
+header h1 {
+    margin-bottom: 0;
+}
+
+header p {
+    margin-bottom: 10px;
+}
+
+.row .card img {
+    width: 100%;
+}
+
+.col-4 {
+    border: 1px solid lightgray;
+    vertical-align: top;
+    margin-bottom: 20px;
+}
+
+.row .col-12 p {
+    padding-top: .2rem;
+    padding-bottom: .2rem;
+}
+
+.card-info {
+    padding: 20px;
+}
+
+.card-info h3 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.card-info p {
+    margin-top: .5rem;
+    margin-right: 0;
+    margin-bottom: .5rem;
+    margin-left: 0;
+}
